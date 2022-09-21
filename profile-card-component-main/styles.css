@@ -29,7 +29,7 @@ svg {
 }
 .name-age {
     display: flex;
-    margin: 0 6.75rem;
+    margin: 0 6.75rem -1rem;
     justify-content: space-between;
 }
 article {
@@ -46,7 +46,6 @@ p {
 h1 {
     color: hsl(229, 23%, 23%);
     font-size: 1em;
-    margin-bottom: 0;
 }
 .location p, .name-age p {
     font-size: .8em;
