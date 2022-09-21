@@ -1,0 +1,55 @@
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: hsl(185, 75%, 39%);
+    font-size: 18px;
+    background-image: url(images/bg-pattern-bottom.svg), url(images/bg-pattern-top.svg);
+    background-position: 850px 450px, -500px -700px;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+.card {
+    background-color: white;
+    border-radius: 0 0 20px 20px;
+    text-align: center;
+    margin-top: -5%;
+}
+img {
+    border-radius: 15em;
+    margin-top: -15%;
+    border: 5px solid white;
+}
+svg {
+    border-radius: 20px 20px 0 0;
+}
+.name-age {
+    display: flex;
+    margin: 0 6.75rem;
+    justify-content: space-between;
+}
+article {
+    display: flex;
+    justify-content: space-around;
+}
+p {
+    color: hsl(227, 10%, 46%);
+    font-weight: 400;
+    font-size: .6em;
+    padding-bottom: 1em;
+    letter-spacing: .1em;
+}
+h1 {
+    color: hsl(229, 23%, 23%);
+    font-size: 1em;
+    margin-bottom: 0;
+}
+.location p, .name-age p {
+    font-size: .8em;
+    height: 30px;
+}
+
