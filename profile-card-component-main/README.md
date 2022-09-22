@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![webProfileCard.jpeg]
-![mobileProfileCard.png] 
+![mobileProfileCard](https://user-images.githubusercontent.com/95522156/191728274-936a6ea4-c089-4511-850d-ed35adcf9e70.png)
+![webProfileCard](https://user-images.githubusercontent.com/95522156/191728282-53540806-0f29-4d9c-b9c5-b45281097dba.jpeg)
 
 ### Links
 
